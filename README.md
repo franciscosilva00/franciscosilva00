@@ -4,7 +4,7 @@
 
 I'm currently working on a full-stack project to finish my high school course - <b>speaq</b> - which you can find [here](https://github.com/franciscosilva00/speaq_electron). It's based on Vue, Electron and Express.js.
 
-I'm mostly focused on learning front-end technologies such as **Vue.js**, **web development** in general and **Android**.
+I'm mostly focused on learning front-end technologies such as **Vue.js**, **React**, **web development** in general and **Android**.
 
 ## 📚 What I'm Studying
 
