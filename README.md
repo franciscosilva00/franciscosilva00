@@ -1,4 +1,4 @@
-# ✨ Hi there!
+# ✨ Hello there!
 
 #### My name is Francisco (he/they), I'm a 19 year old student learning software development.
 
