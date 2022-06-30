@@ -2,7 +2,7 @@
 
 #### My name is Francisco (he/they), I'm a 19 year old student learning software development.
 
-I'm currently working on a full-stack project to finish my high school course - <b>speaq</b> - which you can find [here](https://github.com/franciscosilva00/speaq). It's based on React, Tauri and Express.js.
+I'm currently working on a full-stack project to finish my high school course - <b>speaq</b> - which you can find [here](https://github.com/speaqchat). It's based on React, Tauri and Express.js.
 
 I'm mostly focused on learning front-end technologies such as **React**, **Vue.js**, **web development** in general and **Android**.
 
