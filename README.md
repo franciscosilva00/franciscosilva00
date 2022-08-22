@@ -1,14 +1,12 @@
-# ✨ Hello there!
+## Hello there! <img style="height: 32px;" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"/>
 
-#### My name is Francisco (he/they), I'm a 19 year old student learning software development.
+#### I'm Francisco (he/they), a 19 year old student learning software development.
 
-I'm currently working on a full-stack project to finish my high school course - <b>speaq</b> - which you can find [here](https://github.com/speaqchat). It's based on React, Tauri and Express.js.
+I'm interested in learning front-end technologies like React, Next.js and Vue, as well as backend tools such as Node; I've already built a number of fullstack web applications using Express as well as TRPC with Next.js.
 
-I'm mostly focused on learning front-end technologies such as **React**, **Vue.js**, **web development** in general and **Android**.
+I have also worked with relational database management systems, such as PostgreSQL and MySQL.
 
-## 📚 What I'm Studying
-
-I'm currently studying IT at EPVC (Escola Profissional de Vila do Conde).
+I have experience writing code in Typescript, Java and Kotlin, and have built a number of Android applications using Kotlin. I'm passionate about learning new technologies and improving my skills.
 
 ## 📈 My Stats
 
