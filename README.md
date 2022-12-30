@@ -1,12 +1,12 @@
 ## Hello there! <img style="height: 32px;" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"/>
 
-#### I'm Francisco (he/they), a 19 year old student learning software development.
+#### I'm Francisco (he/they), a 20 year old student learning software development.
 
-I'm interested in learning front-end technologies like React, Next.js and Vue, as well as backend tools such as Node; I've already built a number of fullstack web applications using Express as well as TRPC with Next.js.
+I'm a programmer with a passion for Typescript and full-stack development. Some of my notable projects include "speaq", a full-stack chat app built with React, Next.js, Prisma, Express.js and Socket.IO.
 
-I have also worked with relational database management systems, such as PostgreSQL and MySQL.
+In addition to Typescript, I am also knowledgeable in Java and Kotlin. I enjoy using Kotlin for its functional programming capabilities and have used it to develop a few Android apps.
 
-I have experience writing code in Typescript, Java and Kotlin, and have built a number of Android applications using Kotlin. I'm passionate about learning new technologies and improving my skills.
+Feel free to check out my repositories and contact me with any questions and opportunities (whether it be employment or just friendly collaboration) :)
 
 ## 📈 My Stats
 
