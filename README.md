@@ -8,12 +8,6 @@ In addition to Typescript, I am also knowledgeable in Java and Kotlin. I enjoy u
 
 Feel free to check out my repositories and contact me with any questions and opportunities (whether it be employment or just friendly collaboration) :)
 
-## 📈 My Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscosilva00&layout=compact&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![franciscosilva00's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscosilva00&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **franciscosilva00/franciscosilva00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
